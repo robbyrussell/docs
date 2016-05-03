@@ -300,7 +300,7 @@ This is an admittedly imperfect list of Portland startups. But it's a start. Ple
 - Physician Relocation Specialists
 - Pillsy
 - pivotplanet
-- Planet Argon
+- Planet Argon (http://www.planetargon.com/)
 - Platial
 - Player 01
 - Playmunity
